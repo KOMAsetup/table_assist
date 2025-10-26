@@ -19,3 +19,4 @@ model_resnet = smp.DeepLabV3(
     classes=1,
     activation="sigmoid"
 )
+
